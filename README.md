@@ -135,4 +135,4 @@ An interactive control layer allowing a human to make live dispatch decisions wi
 
 Actively in development. The single-train engine is functional and under an ongoing accuracy-improvement sprint; multi-train architecture planning is complete and implementation is beginning.
 
-See `CONTRIBUTORS.md` for the team, and the summary report in this repository for a detailed account of work completed so far.
+See the summary report in this repository for a detailed account of work completed so far.
