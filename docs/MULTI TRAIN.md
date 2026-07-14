@@ -144,8 +144,6 @@ main.py
 Everything in `tracks.py` and `physics.py`'s core dynamics math needs no rework at all — that's good news, it means a meaningful chunk of your stack is already multi-train-ready by virtue of being properly scoped per-instance.
 
 
-Here's the text — copy into your own document as you like.
-
 ---
 # MULTI-TRAIN ARCHITECTURE:
 
